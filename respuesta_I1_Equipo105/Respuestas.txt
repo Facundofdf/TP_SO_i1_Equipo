@@ -1,19 +1,19 @@
-a-¿ALFA ve los datos que cargaron los demás en su repositorio?
+A-¿ALFA ve los datos que cargaron los demás en su repositorio?
 
-a-Si, veo los datos que cargaron los demas en el repositorio.
+A-Respuesta: Si, veo los datos que cargaron los demas en el repositorio.
 
-b-¿Si ALFA agrega un archivo los demás integrantes lo ven?
+B-¿Si ALFA agrega un archivo los demás integrantes lo ven?
 
-b-Si, los demas integrantes ven los archivos que voy agregando.
+B-Respuesta: Si, los demas integrantes ven los archivos que voy agregando.
 
-c-¿Si BETA agrega un archivo los demás integrantes lo ven?
+C-¿Si BETA agrega un archivo los demás integrantes lo ven?
 
+C-Respuesta: 
 
+D-¿De qué forma se comunicaron ustedes?
 
-d-¿De qué forma se comunicaron ustedes?
+D-Respuesta: 
 
+E-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
 
-
-e-¿Cuál es la mejor forma de comunicarse entre ustedes dentro de github?
-
-e- Dentro de github para mi la mejor forma de comunicarnos es mediante los mensajes privados, los comentarios en los archivos del projecto y la solapa Projects me parece muy util sobre todo para dividirse tareas y organizarlas.
+E-Respuesta: Dentro de github para mi la mejor forma de comunicarnos es mediante los mensajes privados, los comentarios en los archivos del projecto y la solapa Projects me parece muy util sobre todo para dividirse tareas y organizarlas.
