@@ -1,5 +1,15 @@
+<<<<<<< HEAD
 BETA
 Nombre: Sebastian Nahuel
 Apellido: Peña
 IP: 10.0.2.15
 Hora: 06:51PM
+=======
+
+
+GAMMA
+Nombre: Juan Martin
+Apellido: Suarez Szubartowski
+IP de la máquina: 172.24.144.1
+La hora actual es: 16:48:28,88
+>>>>>>> e4f971b6da215a63915ea8a3b6f45c327e58552c
